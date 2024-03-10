@@ -30,11 +30,11 @@ The Project Management System is a web application designed to streamline projec
 5. Access the Swagger UI to interact with the APIs: `http://localhost:8080/swagger-ui.html`.
 
 ## API Endpoints
-- **GET /GET/projects**: Get all projects.
-- **GET /GET/projects/{projectId}**: Get project by ID.
-- **PUT /PUT/projects/{projectId}**: Update an existing project.
-- **POST /POST/projects**: Create a new project.
-- **DELETE /DELETE/{projectId}**: Delete a project by ID.
+- **GET =/GET/projects**: Get all projects.
+- **GET =/GET/projects/{projectId}**: Get project by ID.
+- **PUT =/PUT/projects/{projectId}**: Update an existing project.
+- **POST =/POST/projects**: Create a new project.
+- **DELETE = /DELETE/{projectId}**: Delete a project by ID.
 
 ## Documentation
 API documentation is generated using Swagger. You can access the Swagger UI to explore and interact with the APIs. The Swagger UI is available at `http://localhost:8080/swagger-ui.html`.
